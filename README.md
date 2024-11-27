@@ -27,7 +27,7 @@ To view the code/visualizations used in the final project report:
 
 
 ## 3 Demonstration
-### 3.1 Features and Functionality (rename dis)
+### 3.1 Features and Functionality
 The general report workflow covers:
 1. Data Collection: Goodreads webscraping using BeautifulSoup.
 2. Data Cleaning: Language detection to filter non-English reviews, text cleaning (removing stopwords, tokenization, lemmatization, typo correction using NLTK).
